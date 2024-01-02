@@ -1,5 +1,5 @@
 # Hanboyel-Lang
-let me go
+살려주세요
 
 TODO
 + 속도 최소 jvm 기반 언어
